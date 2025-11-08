@@ -1,0 +1,9 @@
+body.index {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body.index > div, body.index > a {
+  margin: 10px 0;
+}/*# sourceMappingURL=index.css.map */

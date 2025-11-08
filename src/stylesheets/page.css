@@ -1,0 +1,9 @@
+body.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body.page > div, body.page > a {
+  margin: 10px 0;
+}/*# sourceMappingURL=page.css.map */
